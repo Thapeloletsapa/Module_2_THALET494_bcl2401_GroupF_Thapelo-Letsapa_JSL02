@@ -4,7 +4,6 @@ const welcomeMessage = () => {
 };
 welcomeMessage();
 
-
 const displayWorkoutRoutine = () => {
     const workoutInput = document.querySelector('#workoutInput').value;
     const workoutList = document.querySelector('#workoutList');
